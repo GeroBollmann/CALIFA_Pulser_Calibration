@@ -44,7 +44,7 @@ Place in the same folder (or adjust file paths in the scripts):
 -pulser_calibration_parameters.C
 -califa_calibParFinder_v3.C
 -califamapping_v1.par
--CrystalID_mapping.txt
+-califa_specs.txt
 
 --- How To run the script: ---
 
