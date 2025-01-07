@@ -15,13 +15,12 @@ ___________________________Instructions___________________________
 - Perform individual measurements for both Wixhausen and Messel sides, in both gamma and proton ranges, for each pulser signal, ensuring that the pulser is connected to only one side during each respective measurement.
 - All signals used in the gamma range must also be used in the proton range with identical settings to serve as reference values.
 - Measure pulser voltages directly at the pulser output and after all preamplifiers using an oscilloscope. Ensure they are identical to maintain consistent signals through the preamplifiers.
-
-Example:
-- Gamma Range: 45 mV, 252 mV, 425 mV (3 measurements each)
-- Proton Range: 45 mV, 252 mV, 425 mV, 1300 mV, 3010 mV, 5620 mV (6 measurements each)
-
 - Collect several GB of data for each measurement to ensure sufficient statistics.
 - For each setting, ensure a similar data volume so that all signals have the same statistical reliability.
+
+(Example:
+- Gamma Range: 45 mV, 252 mV, 425 mV (3 measurements each)
+- Proton Range: 45 mV, 252 mV, 425 mV, 1300 mV, 3010 mV, 5620 mV (6 measurements each))
 
 -> .lmd files for both Wixhausen and Messel sides, covering gamma and proton ranges and for each pulser setting.
 
