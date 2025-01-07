@@ -1,4 +1,4 @@
-//___________________________Instructions___________________________//
+___________________________Instructions___________________________
 
 ------ Measurement Procedure ------
 
@@ -66,7 +66,7 @@ Place in the same folder (or adjust file paths in the scripts):
 
 
 
-//___________________________Settings: pulser_calibration_parameters.C___________________________//
+___________________________Settings: pulser_calibration_parameters.C___________________________
 
 ------ File Names ------
 
@@ -120,7 +120,7 @@ voltages_gamma_values, voltages_proton_values:
 
 
 
-//___________________________Settings: califa_calibParFinder_v3.C___________________________//
+___________________________Settings: califa_calibParFinder_v3.C___________________________
 
 ----- Histogram Configuration -----
 
