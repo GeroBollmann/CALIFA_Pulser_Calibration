@@ -38,12 +38,13 @@ run_pulser_calibration.sh (bash script) -> califa_calibParFinder_v3.C (calls spe
 - all measurement_gamma_range.lmd files with source and pulser events
 - all measurement_proton_range.lmd files with source and pulser events (same as in gamma range + more with higher voltage)
 
+- califamapping_v1.par
+- califa_specs.txt
+- 
 Place in the same folder (or adjust file paths in the scripts):
 - run_pulser_calibration.sh
 - pulser_calibration_parameters.C
 - califa_calibParFinder_v3.C
-- califamapping_v1.par
-- califa_specs.txt
 
 --- How To run the script: ---
 
