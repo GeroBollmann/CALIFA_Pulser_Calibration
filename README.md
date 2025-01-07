@@ -24,7 +24,7 @@ ___________________________Instructions___________________________
 
 -> .lmd files for both Wixhausen and Messel sides, covering gamma and proton ranges and for each pulser setting.
 
-
+<br>
 
 ------ Software Package ------
 
@@ -99,6 +99,7 @@ anglesfilename:
 - Maps each CrystalID to corresponding angles, FEBEX modules, etc.
 - Can be created using CrystalID_mapping.C. Specify .root files for both ranges in the code. Events are read individually, and parameters are assigned to CrystalIDs.
 
+<br>
 
 ------ Parameters ------
 
@@ -127,6 +128,7 @@ SetCalRange_left/right/bins, SetCalRangeP_left/right/bins:
 SetSourcePeaks_left/right, SetPulserPeaks_left/right, SetSourcePeaksP_left/right, SetPulserPeaksP_left/right:
 - determines the limits of the two search areas for source and pulser signals for gamma and proton regions respectively (P->Proton Range)
 
+<br>
 
 ----- Additional Parameters -----
 
