@@ -19,8 +19,8 @@ ___________________________Instructions___________________________
 - For each setting, ensure a similar data volume so that all signals have the same statistical reliability.
 
 (Example:
-- Gamma Range: 45 mV, 252 mV, 425 mV (3 measurements each)
-- Proton Range: 45 mV, 252 mV, 425 mV, 1300 mV, 3010 mV, 5620 mV (6 measurements each))
+- Gamma Range: 45 mV, 252 mV, 425 mV
+- Proton Range: 45 mV, 252 mV, 425 mV, 1300 mV, 3010 mV, 5620 mV)
 
 -> .lmd files for both Wixhausen and Messel sides, covering gamma and proton ranges and for each pulser setting.
 
