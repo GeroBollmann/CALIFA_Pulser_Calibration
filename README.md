@@ -6,12 +6,12 @@ ___________________________Instructions___________________________
 - Attach a radioactive source, such as Na22, centrally in the detector for all measurements.
 - Connect the pulser to the detector.
 
-3. Verify all crystals in Go4:
+2. Verify all crystals in Go4:
 - Check all crystals, and adjust detector settings if necessary.
 - Adjust the pulser frequency to ensure that the source and pulser signals have similar statistics at the end.
 - Keep the pulser settings (except for voltage) consistent for all measurements.
 
-4. Perform measurements:
+3. Perform measurements:
 - Perform individual measurements for both Wixhausen and Messel sides, in both gamma and proton ranges, for each pulser signal, ensuring that the pulser is connected to only one side during each respective measurement.
 - All signals used in the gamma range must also be used in the proton range with identical settings to serve as reference values.
 - Measure pulser voltages directly at the pulser output and after all preamplifiers using an oscilloscope. Ensure they are identical to maintain consistent signals through the preamplifiers.
