@@ -63,8 +63,7 @@ Place in the same folder (or adjust file paths in the scripts):
 
 8. Run run_pulser_calibration.sh: ./run_pulser_calibration.sh.
 
-
-  
+/
 ___________________________Settings: pulser_calibration_parameters.C___________________________
 
 ------ File Names ------
