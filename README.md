@@ -48,7 +48,7 @@ Place in the same folder (or adjust file paths in the scripts):
 
 --- How To run the script: ---
 
-1. If R3BRoot is successfully installed, replace R3BCalifaMapped2CrystalCalPar.cxx and R3BCalifaMapped2CrystalCalPar.h with the new (desired) version.
+1. If R3BRoot is successfully installed, replace califamapping_v1.par, R3BCalifaMapped2CrystalCalPar.cxx and R3BCalifaMapped2CrystalCalPar.h with the new (desired) version.
 
 2. For both ranges, combine all files and unpack them into a .root file using the UCESB reader.
 
