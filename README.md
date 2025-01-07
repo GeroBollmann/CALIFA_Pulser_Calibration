@@ -63,7 +63,7 @@ Place in the same folder (or adjust file paths in the scripts):
 
 8. Run run_pulser_calibration.sh: ./run_pulser_calibration.sh.
 
-/
+<br><br>
 ___________________________Settings: pulser_calibration_parameters.C___________________________
 
 ------ File Names ------
@@ -116,8 +116,7 @@ voltages_gamma_values, voltages_proton_values:
 - Directly determines the number of signals to be identified
 - Used to verify pulser linearity
 
-
-  
+<br><br>  
 ___________________________Settings: califa_calibParFinder_v3.C___________________________
 
 ----- Histogram Configuration -----
