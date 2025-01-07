@@ -40,7 +40,7 @@ run_pulser_calibration.sh (bash script) -> califa_calibParFinder_v3.C (calls spe
 
 - califamapping_v1.par
 - califa_specs.txt
-- 
+
 Place in the same folder (or adjust file paths in the scripts):
 - run_pulser_calibration.sh
 - pulser_calibration_parameters.C
